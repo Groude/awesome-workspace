@@ -1,5 +1,5 @@
 # awesome-workspace
-
+![](./images/preview.png)
 ### Terminal:
   * zsh - Powerful shell with scripting language.
   * oh-my-zsh - is a community-driven framework for managing your ZSH configuration.
